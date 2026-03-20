@@ -50,7 +50,9 @@ print(obj.Division(a, b))
 ```
 ## Output Example
 <img width="1259" height="246" alt="image" src="https://github.com/user-attachments/assets/cd2ee00d-fb34-4d15-811f-dc555468e991" />
-## Result
+
+Result
+
 Thus, the program demonstrates multiple inheritance by performing basic arithmetic operations — Addition, Subtraction, and Division — using three classes has been executed successfully.
 
 
